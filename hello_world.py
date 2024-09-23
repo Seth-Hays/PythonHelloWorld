@@ -5,7 +5,8 @@ Seth Hays - September 2024
 
 
 def main():
-  pass
+    name: str = "Seth"
+    print("Hello " + name + "!")
 
 
 
