@@ -5,7 +5,7 @@ Seth Hays - September 2024
 
 
 def main():
-    name: str = "Seth"
+    name: str = input("What is you name? ")
     print("Hello " + name + "!")
 
 
